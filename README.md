@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @ankurshinde21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ankur Shinde 👋
 
-<!---
-ankurshinde21/ankurshinde21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **college student** passionate about **Artificial Intelligence**, **Finance**, and **Software Development**.  
+Currently focused on building **AI agents**, learning **Machine Learning**, and exploring **DeepTech applications** in finance and education.
+
+---
+
+## 🚀 Skills
+- **Programming:** Python, JavaScript, C++, HTML, CSS, Go
+- **AI/ML:** Machine Learning Algorithms, AI Agents, MCP
+- **Development:** React.js, Node.js, Express.js, PostgreSQL, AWS 
+
+---
+
+## 🌟 Domains of Interest
+- Machine Learning
+- Finance
+- Deeptech  
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/ankurshinde)
+- [GitHub](https://github.com/ankurshinde21)
+
+---
+
+> Always learning, building, and exploring new ideas! 🚀
