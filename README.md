@@ -25,4 +25,4 @@ Currently focused on building **AI agents**, learning **Machine Learning**, and 
 
 ---
 
-> Always learning, building, and exploring new ideas! 🚀
+> Always learning -> experimenting -> building -> repeating the process to solve real world problems. 
