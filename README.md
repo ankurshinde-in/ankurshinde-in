@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-# Hi, I'm Anish 👋  
+# Hi, I'm Ankur Shinde 👋  
 
 **Machine Learning Engineer | Where Innovation Meets Execution**  
 AI in Financial Services | Researcher in ML | Pre-Final Year Undergrad | Community Manager at Project NANDA India  
@@ -20,5 +20,9 @@ AI in Financial Services | Researcher in ML | Pre-Final Year Undergrad | Communi
 - [LinkedIn](https://www.linkedin.com/in/ankurshinde)  
 - [Twitter/X](https://twitter.com/ankurshinde_dev)  
 - [Link in Bio](https://bio.site/ankur.)  
+
+---
+
+> “Innovation distinguishes between a leader and a follower.” — Steve Jobs
 
 ---
