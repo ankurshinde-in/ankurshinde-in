@@ -1,28 +1,24 @@
-# Hi, I'm Ankur Shinde 👋
+![Banner](./banner.png)
 
-I'm a **college student** passionate about **Artificial Intelligence**, **Finance**, and **Software Development**.  
-Currently focused on building **AI agents**, learning **Machine Learning**, and exploring **DeepTech applications** in finance and education.
+# Hi, I'm Anish 👋  
 
----
-
-## 🚀 Skills
-- **Programming:** Python, JavaScript, C++, HTML, CSS, Go
-- **AI/ML:** Machine Learning Algorithms, AI Agents, MCP
-- **Development:** React.js, Node.js, Express.js, PostgreSQL, AWS 
+**Machine Learning Engineer | Where Innovation Meets Execution**  
+AI in Financial Services | Researcher in ML | Pre-Final Year Undergrad | Community Manager at Project NANDA India  
 
 ---
 
-## 🌟 Domains of Interest
-- Machine Learning
-- Finance
-- Deeptech  
+### 🔍 Current Focus
+- Machine Learning & AI Systems  
+- MLOps & Practical Deployment  
+- Financial Services & Tech  
+- Mathematics  
+- Reading Papers on ML, Agents, and Finance  
 
 ---
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ankurshinde)
-- [GitHub](https://github.com/ankurshinde21)
+### 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ankurshinde)  
+- [Twitter/X](https://twitter.com/ankurshinde_dev)  
+- [Link in Bio](https://bio.site/ankur.)  
 
 ---
-
-> Always learning -> experimenting -> building -> repeating the process to solve real world problems. 
